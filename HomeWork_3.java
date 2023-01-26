@@ -1,5 +1,4 @@
 
-import java.util.Scanner;
 import java.util.Random;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -7,8 +6,6 @@ import java.util.List;
 
 
 public class HomeWork_3 {
-
-    static Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) {
         // Выполнение задачи 1
